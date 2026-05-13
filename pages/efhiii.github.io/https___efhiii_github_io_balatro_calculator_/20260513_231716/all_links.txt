@@ -1,0 +1,12 @@
+assets/Discord-Logo-Color.svg
+breakdown.js
+cards.js
+hand-url.js
+hoverCard.js
+https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js
+https://discord.gg/ARHq4BbyjY
+https://www.googletagmanager.com/gtag/js?id=G-4XT7X7MPCG
+main.js
+manageWorkers.js
+path/to/structured-data.jsonld
+style.css
